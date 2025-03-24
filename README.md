@@ -26,7 +26,7 @@ This project integrates **natural language voice commands** with **autonomous UA
 | Object Detection      | YOLOv8 (Ultralytics)         |
 | AI Model              | OpenAI GPT-3.5 Turbo         |
 | Hardware              | NVIDIA RTX 4060 GPU          |
-| Cloud (optional)      | AWS S3, CloudWatch (for expansion) |
+
 
 ---
 
